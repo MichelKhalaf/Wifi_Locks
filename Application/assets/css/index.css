@@ -1,0 +1,28 @@
+.idx-cnt {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+	text-align: center;
+}
+
+.idx-title {
+	margin-top: 10vh;
+}
+
+.idx-sep {
+	height: 2px;
+	width: 25%;
+	border-width:0;
+	color: #007bff;
+	background-color: #007bff
+}
+
+.idx-names {
+    width: 25%;
+    margin: 0 auto;
+    padding: 10px 10px 1px 10px;
+	vertical-align: middle;
+	text-align: left;
+	line-height: 5px;
+	background: #f1f1f1;
+}
